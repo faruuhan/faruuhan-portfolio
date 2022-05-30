@@ -5,7 +5,7 @@ import "animate.css";
 
 const Homepage = () => {
   useEffect(() => {
-    document.title = "Farhan Dev";
+    document.title = "farhan — developer";
   }, []);
 
   return (
