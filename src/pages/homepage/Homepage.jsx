@@ -11,7 +11,7 @@ const Homepage = () => {
   return (
     <Layout>
       <div className="p-5 max-w-[931px] m-auto flex flex-col lg:py-10">
-        <div>
+        <div className="animate__animated animate__fadeIn animate__slower">
           <ProfileCard />
         </div>
       </div>
